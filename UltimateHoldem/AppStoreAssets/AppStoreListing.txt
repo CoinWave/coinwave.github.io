@@ -1,0 +1,106 @@
+APP STORE CONNECT LISTING — copy each field into App Store Connect
+=====================================================================
+
+APP NAME (30 max) — App Information
+Ultimate Poker: Hold’em Casino
+
+SUBTITLE (30 max) — App Information
+Texas Hold’em vs. the Dealer
+
+PRIMARY CATEGORY: Games   |   SUBCATEGORIES: Casino, Card
+
+PROMOTIONAL TEXT (170 max) — Version page. Can be changed any time without review.
+Claim 1,000,000 free chips, spin the daily bonus wheel for up to 2,000,000 more, and chase a growing progressive jackpot on every hand.
+
+KEYWORDS (100 max, comma-separated, no spaces) — Version page
+holdem,vegas,cards,jackpot,progressive,table,chips,flop,river,trips,royal,flush,bet,ante,pair,blind
+
+  (Words already in the app name and subtitle — ultimate, poker, hold'em, casino,
+   texas, dealer — are indexed automatically, so they're left out to make room.
+   "holdem" without the apostrophe is kept because people often search it that way.)
+
+SUPPORT URL — Version page
+https://coinwave.github.io/ultimate-poker/support.html
+
+MARKETING URL (optional) — leave blank
+
+PRIVACY POLICY URL — App Privacy
+https://coinwave.github.io/ultimate-poker/privacy.html
+
+COPYRIGHT — Version page
+2026 YOUR LEGAL NAME OR COMPANY
+
+
+DESCRIPTION (4000 max) — Version page
+---------------------------------------------------------------------
+Take a seat at the felt and play casino-style Texas Hold'em head-to-head against the dealer. No opponents to wait on — just you, the dealer and a progressive jackpot that grows with every hand.
+
+START WITH 1,000,000 FREE CHIPS
+Pick a player name and your welcome chips are waiting. Come back every day to spin the Daily Bonus Wheel for 20,000 to 2,000,000 more free chips.
+
+PLAY IT LIKE THE CASINO
+• Place equal Ante and Blind bets, then decide how big to go
+• Bet 4x or 3x your Ante before the flop, 2x after the flop, or 1x on the river
+• Raise early with a strong hand, or check and see more cards
+• The dealer needs a pair to qualify — if not, your Ante pushes
+• Blind bet pays up to 500 to 1 for a Royal Flush
+
+SIDE BETS & PROGRESSIVE JACKPOT
+• Trips pays up to 50 to 1 on your final hand — win or lose against the dealer
+• The Progressive Jackpot pays on your two cards plus the flop
+• A Royal Flush wins 100% of the jackpot; a Straight Flush wins 10%
+• Four of a Kind pays 300 to 1, Full House 50 to 1, and more
+
+LEVEL UP & RAISE THE STAKES
+Earn XP on every hand, collect bonus chips each time you level up, and unlock six tables — from $1K antes all the way to high-roller $2M tables.
+
+BUILT FOR SMOOTH PLAY
+• Clean, easy-to-read table with clear payouts on every hand
+• Rules & Payouts screen with every paytable in one place
+• Fast-deal mode and haptic feedback
+• Plays offline — no account or sign-in required
+
+Want more chips? Visit the Chip Store for chip packs — bigger packs include bigger bonuses — and enter promo codes for extra chips.
+
+This game is intended for an adult audience (17+) for amusement purposes only. It does not offer real-money gambling or an opportunity to win real money or prizes. Chips are virtual, have no cash value and cannot be exchanged for money or anything of value. Practice or success at social casino gaming does not imply future success at real-money gambling.
+---------------------------------------------------------------------
+
+
+AGE RATING QUESTIONNAIRE — App Information > Age Rating
+• Simulated Gambling: Frequent/Intense   -> app is rated 17+
+• Gambling (real money): No
+• Contests: No
+• Everything else: None
+• In-App Purchases: Yes
+
+
+APP PRIVACY — App Privacy
+• "Do you or your third-party partners collect data from this app?"  -> No
+  (Chips, levels and settings are stored only on the player's device.
+   Purchases are handled by Apple.)
+
+
+APP REVIEW INFORMATION — Version page > App Review Information
+Sign-in required: No
+
+Notes:
+This is a free social casino game. Chips are virtual, have no cash value, and cannot be redeemed for money or prizes; there is no real-money gambling.
+
+How to test:
+• On first launch, enter any name to receive 1,000,000 free chips.
+• The Daily Bonus Wheel (lobby, purple button) can be spun once every 24 hours.
+• Chip packs are consumable in-app purchases in the Chip Store.
+• Promo code to test: WELCOME25 (adds 25% bonus chips to the next pack purchased). Enter it in the Chip Store.
+• Rules & Payouts: gold button at the top of the lobby.
+
+Contact: YOUR NAME, YOUR PHONE, YOUR EMAIL
+
+
+IN-APP PURCHASE DISPLAY NAMES & DESCRIPTIONS (each product needs one)
+Product ID suffix   Price    Display name    Description
+chips.tier1         $0.99    2M Chips        2,000,000 chips for Ultimate Poker: Hold’em Casino. Virtual chips have no cash value.
+chips.tier2         $4.99    12M Chips       12,000,000 chips for Ultimate Poker: Hold’em Casino. Virtual chips have no cash value.
+chips.tier3         $9.99    30M Chips       30,000,000 chips for Ultimate Poker: Hold’em Casino. Virtual chips have no cash value.
+chips.tier4         $19.99   70M Chips       70,000,000 chips for Ultimate Poker: Hold’em Casino. Virtual chips have no cash value.
+chips.tier5         $29.99   120M Chips      120,000,000 chips for Ultimate Poker: Hold’em Casino. Virtual chips have no cash value.
+chips.tier6         $49.99   250M Chips      250,000,000 chips for Ultimate Poker: Hold’em Casino. Virtual chips have no cash value.
